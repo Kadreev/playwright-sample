@@ -117,3 +117,5 @@ dist
 **/*.feature.cs
 
 **/test-results/*
+
+.shopify

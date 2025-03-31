@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- make sure to execute commands that install npm packages with @latests otherwise you are breaking the codebase when you are not sure about latest version 

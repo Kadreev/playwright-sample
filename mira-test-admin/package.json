@@ -1,0 +1,38 @@
+{
+  "name": "mira-test-admin",
+  "version": "1.0.0",
+  "description": "Admin panel for LambdaTest automation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "lambdatest",
+    "playwright",
+    "testing",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^5.68.0",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.10",
+    "axios": "^1.8.3",
+    "eslint": "^9.22.0",
+    "mongodb": "^6.14.2",
+    "next": "^15.2.2",
+    "next-auth": "^4.24.11",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.0"
+  }
+}
